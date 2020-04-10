@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 14 08:29:31 2017
 
-@author: trvsst
+@author: Dinusha Herath Mudiyanselage
 
 class defining the trajectories of an inverse power law potential
 """
