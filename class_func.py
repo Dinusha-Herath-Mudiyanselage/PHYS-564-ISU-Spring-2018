@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 11:56:43 2017
 
-@author: trvsst
+@author: Dinusha Herath Mudiyanselage
 
 This module defines a function class that puts together the function and its 
 derivatives. 
