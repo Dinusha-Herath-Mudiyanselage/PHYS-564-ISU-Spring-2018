@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  7 12:22:44 2017
 
-@author: trvsst
+@author: Dinusha Herath Mudiyanselage
 This module contains functions necessary to evaluate the times it takes for an
 object initially at rest to reach a certain point. This is called the 
 brachistochrone problem. See textbook, section 2.2. This uses the class func.
