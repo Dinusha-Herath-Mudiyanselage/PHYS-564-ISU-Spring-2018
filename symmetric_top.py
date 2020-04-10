@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 21 17:44:51 2018
 
-@author: trvsst
+@author: Dinusha Herath Mudiyanselage
 """
 
 import numpy as np
