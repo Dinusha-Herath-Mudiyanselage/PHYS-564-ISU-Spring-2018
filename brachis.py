@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  5 12:41:30 2017
 
-@author: trvsst
+@author: Dinusha Herath Mudiyabselage
 
 This module contains functions necessary to evaluate the times it takes for an
 object initially at rest to reach a certain point. This is called the 
